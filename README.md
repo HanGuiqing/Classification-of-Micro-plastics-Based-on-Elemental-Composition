@@ -3,6 +3,7 @@
 **Code for the study:**  
 *Utilizing machine learning to accelerate the identification of plastics or microplastics via basic elemental compositions*
 
+<img width="865" height="567" alt="image" src="https://github.com/user-attachments/assets/b57f8657-3287-4b43-a35d-7e275b3ea96f" />
 ---
 
 ## 📌 Project Overview
