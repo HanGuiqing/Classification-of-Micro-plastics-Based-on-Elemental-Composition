@@ -1,4 +1,4 @@
-# Classification of Microplastics Based on Elemental Composition
+# Identification and Quantification of Plastic/Microplastic Mixtures from Elemental Composition
 
 **Code for the study:**  
 *Utilizing machine learning to accelerate the identification and quantification of plastics or microplastics via their basic elemental compositions*
@@ -10,7 +10,9 @@
 
 This repository provides the implementation of a machine learning framework for the **identification and quantification of plastic (microplastic) compositions** using only **basic elemental descriptors** (C, H, O, N and derived ratios).
 
-The proposed workflow aims to serve as a **complementary, low-cost alternative** to spectroscopic techniques (e.g., FTIR, Raman).
+The method is intended as a complementary, low-cost, and chemically interpretable supplement to spectroscopic approaches such as FTIR, Raman, and NIR, rather than a direct replacement under all real-world conditions.
+
+In its current form, the framework should be regarded as a methodological proof-of-concept, with strongest applicability to well-controlled laboratory mixtures and aggregated plastic samples.
 
 ---
 
