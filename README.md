@@ -1,7 +1,7 @@
 # Identification and Quantification of Plastic/Microplastic Mixtures from Elemental Composition
 
 **Code for the study:**  
-*Utilizing machine learning to accelerate the identification and quantification of plastics or microplastics via their basic elemental compositions*
+*Utilizing machine learning to accelerate the identification and quantification of plastics or microplastics via their basic elemental compositions*  https://doi.org/10.1016/j.jhazmat.2026.142535
 
 <img width="865" height="567" alt="image" src="https://github.com/user-attachments/assets/b57f8657-3287-4b43-a35d-7e275b3ea96f" />
 ---
